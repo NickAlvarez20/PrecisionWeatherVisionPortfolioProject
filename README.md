@@ -44,6 +44,6 @@ This is primarily a personal learning / portfolio repository, so formal contribu
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ## Credits & Acknowledgements
-This project was created by NickAlvarez20 as part of my journey to learn [insertProgrammingLanguage] programming. Check out my other repositories to see more of my work!
+This project was created by NickAlvarez20 as part of my journey to learn HTML, CSS, and JavaScript programming. Check out my other repositories to see more of my work!
 ## Contact
 You can find more of my work at [NickAlvarez20 on GitHub](https://github.com/NickAlvarez20).
