@@ -42,8 +42,7 @@ This is primarily a personal learning / portfolio repository, so formal contribu
 2. Create a feature branch
 3. Submit a pull request Please include clear explanations of your changes and test any new code.
 ## License
-This repository is open and free for educational use.
-*(If you decide on a specific license later, insert it here — e.g. MIT, Apache 2.0, etc.)*
+This project is licensed under the MIT License - see the LICENSE file for details.
 ## Credits & Acknowledgements
 This project was created by NickAlvarez20 as part of my journey to learn [insertProgrammingLanguage] programming. Check out my other repositories to see more of my work!
 ## Contact
