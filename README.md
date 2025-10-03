@@ -15,9 +15,7 @@
 Precision Weather Vision
 ## About
 Precision Weather Vision is a modern web application that delivers precise current weather forecasts and air quality information. It provides users with essential environmental data to make informed decisions about daily activities.
-## Prerequisites
-To run this project you need [programmingLanguage] installed on your system.
-Determine is additional libraries are required or no additional libraries
+
 ## Features
 Precision Weather Vision includes these features:
 
