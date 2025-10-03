@@ -19,10 +19,16 @@ Precision Weather Vision is a modern web application that delivers precise curre
 To run this project you need [programmingLanguage] installed on your system.
 Determine is additional libraries are required or no additional libraries
 ## Features
-This projectName includes these features:
--
--
--
+Precision Weather Vision includes these features:
+
+-Real-time current weather forecasts displaying temperature, precipitation, humidity, and wind conditions
+
+-Daily maximum, minimum, and average temperatures
+
+-Probability of rain and snow
+
+-Air Quality Index (AQI) with categorized health impacts: Good (1), Moderate (2), Unhealthy for Sensitive Groups (3), Unhealthy (4), Very Unhealthy (5), Hazardous (6)
+
 ## Getting Started & Installation
 Clone the repository to your local machine:
 `git clone https://github.com/NickAlvarez20/insertrepositoryNameHere.git`
