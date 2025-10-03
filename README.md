@@ -2,9 +2,7 @@
 ## Table of Contents
 - [Project Name](#project-name)
 - [About](#about)
-- [Prerequisites](#prerequisites)
 - [Features](#features)
-- [Getting Started & Installation](#getting-started--installation)
 - [Usage](#usage)
 - [Learning Outcomes](#learning-outcomes)
 - [Contributing](#contributing)
@@ -27,11 +25,9 @@ Precision Weather Vision includes these features:
 
 -Air Quality Index (AQI) with categorized health impacts: Good (1), Moderate (2), Unhealthy for Sensitive Groups (3), Unhealthy (4), Very Unhealthy (5), Hazardous (6)
 
-## Getting Started & Installation
-Clone the repository to your local machine:
-`git clone https://github.com/NickAlvarez20/insertrepositoryNameHere.git`
 ## Usage
 Visit https://precisionweathervision.vercel.app
+
 ## Learning Outcomes
 This project helped me:
 
